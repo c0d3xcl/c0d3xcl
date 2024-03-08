@@ -1,9 +1,3 @@
-<!-- Saludo -->
-<h1 align="center"><b>Hi I'm Carlos👋</b></h1>
-
-<!-- Información -->
-<h2><b>💻 About Me: </b></h2> <h3><b>
-
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">New Developer from Chile</h3>
 
